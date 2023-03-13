@@ -7,8 +7,8 @@
 The dataset consists of approximately 114,000 records of Prosper loans with 81 attributes 
 for each loan including -but not limited to- the loan status, loan original amount, borrower APR 
 & interest rate, credit score, employment status of the individuals as well as their income range. 
-The dataset can be downloaded [here] (https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv) 
-with data dictionary [here] (https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0) 
+The dataset can be downloaded [here] [https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv] 
+with data dictionary [here] [https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0] 
 to understand the dataset's variables. For the purpose of my analysis, I wanted to investigate 
 what attributes in the data affect loan status; I suspected the following attributes wiould 
 have the most impact, so I limited the attributes in the dataset to just these variables and excluded 
